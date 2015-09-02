@@ -66,6 +66,5 @@ class GuessingGame
 end
 
 game = GuessingGame.new
-puts game.answer
 game.start
 game.end
